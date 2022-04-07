@@ -1,0 +1,82 @@
+﻿Mon_Name,Mon_Lev_Ran_LRt,Mon_Type,Mon_Attribute,Mon_Atk,Mon_Def,Effect,Tuner,Mon_SubType
+Blue-Eyes White Dragon,8,Dragon,LIGHT,3000,2500,FALSE,FALSE,Normal
+Blue-Eyes Alternative White Dragon,8,Dragon,LIGHT,3000,25000,TRUE,FALSE,Effect
+Dragon Spirit of White,8,Dragon,LIGHT,2500,,TRUE,FALSE,Effect
+Blue-Eyes Solid Dragon,8,Dragon,LIGHT,2500,2000,TRUE,FALSE,Effect
+Blue-Eyes  Abyss Dragon,8,Dragon,LIGHT,2500,2000,TRUE,FALSE,Effect
+The White Stone of Ancients,1,Dragon,LIGHT,600,500,TRUE,TRUE,Effect;Tuner
+The White Stone of Legends,1,Dragon,LIGHT,300,250,TRUE,TRUE,Effect;Tuner
+Sage with Eyes of Blue,1,Spellcaster,LIGHT,0,1500,TRUE,TRUE,Effect;Tuner
+Maiden with Eyes of Blue,1,Spellcaster,LIGHT,0,0,TRUE,TRUE,Effect;Tuner
+Master with Eyes of Blue,1,Spellcaster,LIGHT,300,1200,TRUE,TRUE,Effect;Tuner
+Effect Veiler,1,Spellcaster,LIGHT,0,0,TRUE,TRUE,Effect;Tuner
+Blue-Eyes Shining Dragon,10,Dragon,LIGHT,3000,2500,TRUE,FALSE,Effect
+Blue-Eyes Chaos MAX Dragon,8,Dragon,DARK,4000,0,TRUE,FALSE,Effect;Ritual
+Blue-Eyes Ultimate Dragon,12,Dragon,LIGHT,4500,3800,FALSE,FALSE,Fusion
+Neo Blue-Eyes Ultimate Dragon,12,Dragon,LIGHT,4500,3800,TRUE,FALSE,Effect;Fusion
+Blue-Eyes Alternative Ultimate Dragon,12,Dragon,LIGHT,4500,3800,TRUE,FALSE,Effect;Fusion
+Blue-Eyes Twin Burst Dragon,10,Dragon,LIGHT,3000,2500,TRUE,FALSE,Effect;Fusion
+Blue-Eyes Spirit Dragon,9,Dragon,LIGHT,2500,3000,TRUE,FALSE,Effect;Synchro
+Azure-Eyes Silver Dragon,9,Dragon,LIGHT,2500,3000,TRUE,FALSE,Effect;Synchro
+Black Rose Moonlight Dragon,7,Dragon,LIGHT,2400,1800,TRUE,FALSE,Effect;Synchro
+Crystral Wing Synchro Dragon,8,Dragon,WIND,3000,2500,TRUE,FALSE,Effect;Synchro
+Number 38: Hope Harbinger Dragon Titanic Galaxy,8,Dragon,LIGHT,3000,2500,TRUE,FALSE,Effect;XYZ
+Number 107: Galaxy-Eyes Tachyon Dragon,8,Dragon,LIGHT,3000,2500,TRUE,FALSE,Effect;XYZ
+Galaxy-Eyes Cipher Dragon,8,Dragon,LIGHT,3000,2500,TRUE,FALSE,Effect;XYZ
+Galaxy-Eyes Full Armor Photon Dragon,8,Dragon,LIGHT,4000,3500,TRUE,FALSE,Effect;XYZ
+Linkuriboh,1,Cyberse,DARK,300,NULL,TRUE,FALSE,Effect;Link
+Junk Synchron,3,Warrior,DARK,1300,500,TRUE,TRUE,Effect;Tuner
+Synchron Carrier,2,Machine,EARTH,0,1000,TRUE,FALSE,Effect
+Steam Synchron,3,Machine,WATER,600,800,TRUE,TRUE,Effect;Tuner
+Junk Converter,2,Warrior,EARTH,400,200,TRUE,FALSE,Effect
+Boost Warrior,1,Warrior,FIRE,300,200,TRUE,FALSE,Effect
+Doppelwarrior,2,Warrior,DARK,800,800,TRUE,FALSE,Effect
+Junk Forward,3,Warrior,EARTH,900,1500,TRUE,FALSE,Effect
+Road Synchron,4,Machine,LIGHT,1600,800,TRUE,TRUE,Effect;Tuner
+Cyberse Synchron,1,Cyberse,DARK,100,100,TRUE,TRUE,Effect;Tuner
+Satellite Synchron,2,Machine,DARK,700,100,TRUE,TRUE,Effect;Tuner
+Fleur Synchron,2,Machine,LIGHT,400,200,TRUE,TRUE,Effect;Tuner
+Turbo Booster,1,Machine,EARTH,0,0,TRUE,FALSE,Effect
+Unknown Synchron,1,Machine,DARK,0,0,TRUE,TRUE,Effect;Tuner
+Quickdraw Synchron,5,Machine,WIND,700,1400,TRUE,TRUE,Effect;Tuner
+Formula Synchron,2,Machine,LIGHT,200,1500,TRUE,TRUE,Effect;Synchro;Toon
+T.G. Hyper Librarian,5,Spellcaster,DARK,2400,1800,TRUE,FALSE,Effect;Synchro
+Junk Warrior,5,Warrior,DARK,2300,1300,TRUE,FALSE,Effect;Synchro
+Accel Synchron,5,Machine,DARK,500,2100,TRUE,TRUE,Effect;Synchro;Tuner
+Junk Speeder,5,Warrior,WIND,1800,1000,TRUE,FALSE,Effect;Synchro
+Stardust Charge Warrior,6,Warrior,WIND,2000,1300,TRUE,FALSE,Effect;Synchro
+Stardust Assault Warrior,6,Warrior,WIND,2100,1200,TRUE,FALSE,Effect;Synchro
+F.A. Dawn Dragster,7,Machine,LIGHT,0,2000,TRUE,FALSE,Effect;Synchro
+Stardust Dragon,8,Dragon,WIND,2500,2000,TRUE,FALSE,Effect;Synchro
+Shooting Riser Dragon,7,Dragon,LIGHT,2100,1700,TRUE,TRUE,Effect;Synchro;Tuner
+Satellite Warrior,10,Warrior,DARK,2500,2500,TRUE,FALSE,Effect;Synchro
+Stardust Warrior,10,Warrior,WIND,3000,2500,TRUE,FALSE,Effect;Synchro
+Shooting Star Dragon,10,Dragon,WIND,3300,2500,TRUE,FALSE,Effect;Synchro
+Cosmic Blazar Dragon,12,Dragon,WIND,4000,4000,TRUE,FALSE,Effect;Synchro
+Shooting Quasar Dragon,12,Dragon,LIGHT,4000,4000,TRUE,FALSE,Effect;Synchro
+"Endymion, the Mighty Master of Magic",7,Spellcaster,DARK,2800,1700,TRUE,FALSE,Effect;Pendulum
+Reflection of Endymion,7,Spellcaster,LIGHT,1850,2700,TRUE,FALSE,Effect;Pendulum
+Magister of Endymion,3,Spellcaster,EARTH,1500,900,TRUE,FALSE,Effect;Pendulum
+Servant of Endymion,3,Spellcaster,WIND,900,1500,TRUE,FALSE,Effect;Pendulum
+Mythical Beast Master Cerberus,8,Spellcaster,LIGHT,2800,2800,TRUE,FALSE,Effect;Pendulum
+Mythical Beast Jackal King,6,Spellcaster,DARK,2400,1400,TRUE,FALSE,Effect;Pendulum
+Mythical Beast Bashilisk,4,Spellcaster,LIGHT,1800,500,TRUE,FALSE,Effect;Pendulum
+Mythical Beast Garuda,4,Spellcaster,LIGHT,1200,1600,TRUE,FALSE,Effect;Pendulum
+Mythical Beast Jackal,1,Spellcaster,DARK,0,1400,TRUE,FALSE,Effect;Pendulum
+Magical Abductor,4,Spellcaster,EARTH,1700,1400,TRUE,FALSE,Effect;Pendulum
+Spellbook Magician of Prophecy,2,Spellcaster,WATER,500,400,TRUE,FALSE,Effect
+Day-Breaker the Shining Magical Warrior,2,Spellcaster,LIGHT,1600,,TRUE,FALSE,Effect;Link
+"Selene, Queen of the Master Magicians",3,Spellcaster,LIGHT,1850,,TRUE,FALSE,Effect;Link
+Odd-Eyes Vortex Dragon,7,Dragon,WIND,2500,3000,TRUE,FALSE,Effect;Fusion
+Number 11: Big Eye,7,Spellcaster,DARK,2600,2000,TRUE,FALSE,Effect;XYZ
+Gravity Controller,1,Psychic,DARK,1000,,TRUE,FALSE,Effect;Link
+Odd-Eyes Absolute Dragon,7,Dragon,WATER,2800,2500,TRUE,FALSE,Effect;XYZ
+Saryuja Skull Dread,4,Dragon,EARTH,2800,,TRUE,FALSE,Effect;Link
+"Crowley, the First Propheseer",2,Spellcaster,DARK,1000,,TRUE,FALSE,Effect;Link
+Knightmare Cerberus,2,Fiend,EARTH,1600,,TRUE,FALSE,Effect;Link
+Borreload Dragon,4,Dragon,DARK,3000,,TRUE,FALSE,Effect;Link
+Knightmare Gryphon,4,Fiend,LIGHT,2500,,TRUE,FALSE,Effect;Link
+Knightmare Unicorn,3,Fiend,DARK,2200,,TRUE,FALSE,Effect;Link
+Knightmare Phoenix,2,Fiend,FIRE,1900,,TRUE,FALSE,Effect;Link
+Thousand-Eyes Restrict,1,Spellcaster,DARK,0,0,TRUE,FALSE,Effect;Fusion
+"Apollousa, Bow of the Goddess",4,Fairy,WIND,?,,TRUE,FALSE,Effect;Link
