@@ -89,7 +89,6 @@ def split_csv_file_by_field(csv_file):
             else: iterations += 1
     return new_file_dictionaries
 
-
 def copy_csv_file_by_field(csv_file):
     new_file_data = split_csv_file_by_field(csv_file)
 
@@ -97,8 +96,7 @@ def copy_csv_file_by_field(csv_file):
         with open(file_name, 'w', encoding = 'utf-8-sig', newline = '\n') as new_file:
             write_obj = csv.DictWriter(new_file, fieldnames = get_fieldnames(csv_file), dialect = 'excel')
             write_obj.writeheader()
-            for row in new_file_data[file_name]:
-                write_obj.writerow(row)
+            write_obj.writerows(new_file_data[file_name])
                 
     print('\nData copy complete.')
 
